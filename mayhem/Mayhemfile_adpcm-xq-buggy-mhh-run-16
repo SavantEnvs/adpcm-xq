@@ -1,0 +1,6 @@
+# origin: https://app.mayhem.security/mayhemheroes/adpcm-xq/adpcm-xq/16
+project: savantenvs/adpcm-xq
+target: adpcm-xq-buggy-mhh-run-16
+
+cmds:
+  - cmd: /mayhem/adpcm-xq-buggy-mhh-run-16 -y @@ /tmp/out.wav
